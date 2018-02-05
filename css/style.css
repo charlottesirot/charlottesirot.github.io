@@ -360,7 +360,7 @@ outline:0;
 }
 
 .start {
-  background-image: url("image2.JPG");
+  background-image: url("image1.JPG");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -379,6 +379,7 @@ outline:0;
 
 .publications {
   background-image: url("image3.JPG");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-position: top center; 
@@ -387,6 +388,7 @@ outline:0;
 
 .softwares {
   background-image: url("image4.JPG");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-position: top center; 
@@ -395,6 +397,7 @@ outline:0;
 
 .CV {
   background-image: url("image5.JPG");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-position: top center; 
