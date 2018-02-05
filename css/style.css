@@ -57,7 +57,7 @@ a:hover, a:focus, a:active {
 .inner {  
   margin-top: 0px;
   min-height: 100vh;
-  max-width: 970px;
+  max-width: 950px;
   width:100vw;
   font-size: 18px;
   text-align: justify;
@@ -68,11 +68,11 @@ a:hover, a:focus, a:active {
 }
 
 .shiftright {
-  margin-left: 33vw;  
+  margin-left: 42vw;  
 }
 
 .shiftleft {
-  margin-left: 15vw;  
+  margin-left: 10vw;  
 }
 
 .PartSoftware {
