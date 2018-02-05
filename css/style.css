@@ -361,6 +361,7 @@ outline:0;
 
 .start {
   background-image: url("image1.JPG");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-position: top center; 
@@ -369,6 +370,7 @@ outline:0;
 
 .ResearchInterest {
   background-image: url("image2.JPG");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-position: top center; 
