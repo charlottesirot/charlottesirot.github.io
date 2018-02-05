@@ -38,11 +38,10 @@ a:hover, a:focus, a:active {
 
 .innerStart {
   margin: auto;
-  height: 100%;
   /*max-width: 700px; */
   width:30vw;
   font-size: 18px;
-  margin-left: 25vw;
+  margin-left: 22vw;
   margin-top:35vh;
   font-size: 20px;
   text-align: justify;  
