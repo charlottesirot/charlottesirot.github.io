@@ -7,7 +7,7 @@
 
 body {
   overflow: hidden;
-  font-family: Garamond, serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 button {
@@ -41,8 +41,13 @@ a:hover, a:focus, a:active {
   height: 100%;
   /*max-width: 700px; */
   width:30vw;
+<<<<<<< HEAD
   font-size: 18px;
   margin-left: 25vw;
+=======
+  font-size: 1em;
+  margin-left: 15vw;
+>>>>>>> 857432e95f6b1fa147a1e0e9a41d7a46a21132e2
   margin-top:35vh;
   font-size: 20px;
   text-align: justify;  
